@@ -1,0 +1,68 @@
+{
+	"origin": [
+		"#start##end# the #title# #profession#"
+	],
+	"profession": [
+		"blacksmith",
+		"teacher",
+		"professor",
+		"slave",
+		"miner",
+		"son",
+		"guard",
+		"pillowcase",
+		"boxer",
+		"swordsman",
+		"street dweller",
+		"grandpa",
+		"panhandler",
+		"con artist",
+		"bard"
+	],
+	"end": [
+		"bard",
+		"end",
+		"tin",
+		"sus",
+		"tox",
+		"kio",
+		"lo",
+		"rio",
+		"k",
+		"iper",
+		"ero",
+		"yper"
+	],
+	"start": [
+		"Sval",
+		"Jil",
+		"Iko",
+		"Je",
+		"Kan",
+		"Il",
+		"Bo",
+		"Ki",
+		"Op",
+		"Er",
+		"Ti",
+		"De",
+		"Lo",
+		"Mu"
+	],
+	"title": [
+		"human",
+		"dwarf",
+		"nordic",
+		"holy",
+		"racist",
+		"stupid",
+		"drunken",
+		"crafty",
+		"butt",
+		"homeless",
+		"retired",
+		"lost",
+		"confused",
+		"sedated"
+	]
+}
