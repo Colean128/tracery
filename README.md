@@ -1,2 +1,2 @@
-# twitter-bots
-my crappy twitter bots made in tracery. host them on cheap bots done quick and you'll have a good time.
+# tracery
+cheap bots done quick supports these yay
