@@ -1,0 +1,47 @@
+{
+	"origin": [
+		"#word# #word2#, the #genre# band"
+	],
+	"word2": [
+		"destroyers",
+		"men",
+		"people",
+		"punk",
+		"fighters",
+		"revolution",
+		"orchestra",
+		"stylers",
+		"strummers",
+		"matrix",
+		"42",
+		"en"
+	],
+	"genre": [
+		"rock",
+		"electro",
+		"dubstep",
+		"pop",
+		"kpop",
+		"glitch",
+		"lo-fi hip hop",
+		"orchestra",
+		"unique",
+		"guitar",
+		"new wave",
+		"synthpop",
+		"jazz-funk"
+	],
+	"word": [
+		"young",
+		"lost",
+		"frozen",
+		"chemical",
+		"crystal",
+		"junk",
+		"chill",
+		"level",
+		"shaun",
+		"bo",
+		"electric"
+	]
+}
